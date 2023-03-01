@@ -1,0 +1,17 @@
+{
+    "name": "hewerlip/buscardor-cursos",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Hewerlip\\BuscardorCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hewerthon Lipú",
+            "email": "hewerlip@hotmail.com"
+        }
+    ],
+    "require": {}
+}
