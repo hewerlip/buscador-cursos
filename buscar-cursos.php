@@ -1,9 +1,9 @@
 <?php
 
 require 'vendor/autoload.php';
-require 'src/Buscador.php';
 
-use hewerlip\BuscadorDeCursos\Buscador;
+
+use Hewerlip\BuscadorDeCursos\Buscador;
 use GuzzleHttp\Client;
 use Symfony\Component\DomCrawler\Crawler;
 

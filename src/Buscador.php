@@ -1,6 +1,6 @@
 <?php
 
-namespace hewerlip\BuscadorDeCursos;
+namespace Hewerlip\BuscadorDeCursos;
 
 use GuzzleHttp\ClientInterface;
 
